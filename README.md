@@ -1,0 +1,2 @@
+# kalkulator
+Kalkulator (Qt + C++)
